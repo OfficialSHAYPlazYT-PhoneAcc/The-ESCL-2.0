@@ -1,27 +1,21 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ShayK47YT",
+        "link": "https://www.youtube.com/@Shay-K_47"
+    },
+    {
+        "role": "owner",
+        "name": "Errorz",
+        "link": "https://youtube.com/@errorrrzz?si=iMmgpnzieDSRmq-2"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "TheBridgerMC",
+        "link": "https://www.youtube.com/@TheBridgerMC"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Dan",
+        "link": "https://youtube.com/@georgedanielstaicu8575?si=Jfy1qbDyXz6aDNiK"
     }
-]
