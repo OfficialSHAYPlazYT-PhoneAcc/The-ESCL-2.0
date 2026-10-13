@@ -1,0 +1,16 @@
+    "id": 141659880,
+    "name": "HYPERCORE",
+    "author": "Noicy",
+    "creators": ["Noicy"],
+    "verifier": "Rob01",
+    "verification": "Account Terminated",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "Wucaf",
+            "link": "https://youtu.be/17OGnDuxuFQ?si=O9cofbmYE65CPjwG",
+            "percent": 100,
+            "hz": 360
+        }
+]
