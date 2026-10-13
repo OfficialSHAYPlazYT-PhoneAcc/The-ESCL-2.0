@@ -1,4 +1,5 @@
-    "id": 141659880,
+  {
+  "id": 141659880,
     "name": "HYPERCORE",
     "author": "Noicy",
     "creators": ["Noicy"],
@@ -14,3 +15,4 @@
             "hz": 360
         }
 ]
+}
