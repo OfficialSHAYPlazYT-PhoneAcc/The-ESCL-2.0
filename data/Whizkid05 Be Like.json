@@ -1,0 +1,18 @@
+  {
+  "id": 147592848,
+    "name": "WhizKid05 Be Like",
+    "author": "Ad3usGMD",
+    "creators": ["SpamRureL, Ad3usGMD"],
+    "verifier": "Ad3usGMD",
+    "verification": "https://youtu.be/VSV4_87kQys?si=ppe5Y8EHXITVgXWE",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ArturSPAM24",
+            "link": "https://youtube.com/shorts/hCSPb-e_iuc?is=SB5yRv2xhO13GQXn",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
