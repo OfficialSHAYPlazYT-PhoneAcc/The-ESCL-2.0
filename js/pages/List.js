@@ -122,6 +122,36 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List we still accept records for those levels
+                         </p>
+                    <p>
+                    METHODS
+                    </p>
+                    <p>
+Levels must beat beaten with their listed method.
+ </p>
+                    <p>
+Alternating: Alternating with your left and right hand at the same cps staggered.
+ </p>
+                    <p>
+Alt-Jitter: Alternate jittering with both of your hands.
+ </p>
+                    <p>
+Jitter: Tensing up your wrist or forearm to click faster than normal with one hand.
+ </p>
+                    <p>
+Rake: Sliding 3 fingers across 2 keys or sliding 3 fingers across 1 key on each hand. Rapid Trigger is not allowed for rake on "NO RT" levels but is allowed.
+ </p>
+                    <p>
+Lip: Buzzing your lips on an input device.
+ </p>
+                    <p>
+Scroll: Using your scroll wheel to increase your CPS.
+ </p>
+                    <p>
+Flyhec: Involves rolling 4 fingers on each hand over a single button to attain a high amount of CPS.
+ </p>
+                    <p>
+Mobilehec: Flyhec, but on a mobile device.
                     </p>
                 </div>
             </div>
