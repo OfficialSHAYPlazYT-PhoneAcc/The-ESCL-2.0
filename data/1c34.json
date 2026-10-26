@@ -1,0 +1,18 @@
+{
+  "id": 116598815,
+    "name": "1c34",
+    "author": "Babseed",
+    "creators": ["Aelzfr"],
+    "verifier": "YWUChaos",
+    "verification": "https://youtu.be/zxKhZny5mxU?si=zGumK-eQD2-hzkZt",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+      {
+            "user": "Wucaf",
+            "link": "https://youtu.be/1txWKeikrWw?si=11SOF9mWP1MutgKw",
+            "percent": 100,
+            "hz": "60"
+        }
+]
+}
